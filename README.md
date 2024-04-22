@@ -31,3 +31,4 @@ The database management module, implemented in the `DBMgr` class, facilitates th
 ## Future Enhancements:
 - **User interface:** Develop a user-friendly interface for interacting with the system, allowing users to manage face data and view recognition results.
 - **Performance optimization:** Optimize image processing algorithms and database operations for faster and more efficient processing. 
+- **New features:** Add new features, such as different objects detection and tracking. 
